@@ -1,0 +1,8002 @@
+[
+  {
+    "timestamp": "2025-03-18T04:22:23.034502",
+    "temperature": 22.95,
+    "humidity": 42.74,
+    "sound": 64.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034343",
+    "temperature": 22.54,
+    "humidity": 42.35,
+    "sound": 66.55,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032151",
+    "temperature": 22.43,
+    "humidity": 43.36,
+    "sound": 66.52,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033568",
+    "temperature": 22.26,
+    "humidity": 42.75,
+    "sound": 65.84,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031891",
+    "temperature": 22.13,
+    "humidity": 43.77,
+    "sound": 66.8,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034927",
+    "temperature": 23.14,
+    "humidity": 43.13,
+    "sound": 66.91,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034674",
+    "temperature": 23.46,
+    "humidity": 44.08,
+    "sound": 66.66,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033276",
+    "temperature": 22.29,
+    "humidity": 44.14,
+    "sound": 67.81,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031349",
+    "temperature": 22.66,
+    "humidity": 45.4,
+    "sound": 65.22,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032836",
+    "temperature": 22.07,
+    "humidity": 44.56,
+    "sound": 65.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034307",
+    "temperature": 22.31,
+    "humidity": 42.13,
+    "sound": 65.26,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035687",
+    "temperature": 22.93,
+    "humidity": 55.0,
+    "sound": 70.91,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034293",
+    "temperature": 22.52,
+    "humidity": 43.67,
+    "sound": 64.8,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032955",
+    "temperature": 22.04,
+    "humidity": 43.0,
+    "sound": 65.94,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035274",
+    "temperature": 23.37,
+    "humidity": 43.6,
+    "sound": 65.26,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031678",
+    "temperature": 22.45,
+    "humidity": 45.97,
+    "sound": 64.96,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032548",
+    "temperature": 22.65,
+    "humidity": 43.7,
+    "sound": 65.11,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032518",
+    "temperature": 22.92,
+    "humidity": 43.54,
+    "sound": 66.09,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035748",
+    "temperature": 22.79,
+    "humidity": 46.38,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031947",
+    "temperature": 22.8,
+    "humidity": 43.51,
+    "sound": 65.59,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032426",
+    "temperature": 22.91,
+    "humidity": 43.77,
+    "sound": 65.28,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030538",
+    "temperature": 22.19,
+    "humidity": 44.26,
+    "sound": 64.32,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035374",
+    "temperature": 23.52,
+    "humidity": 44.37,
+    "sound": 65.68,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035792",
+    "temperature": 23.28,
+    "humidity": 43.24,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034180",
+    "temperature": 22.62,
+    "humidity": 43.34,
+    "sound": 66.08,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031202",
+    "temperature": 22.17,
+    "humidity": 44.63,
+    "sound": 64.22,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030155",
+    "temperature": 22.17,
+    "humidity": 44.51,
+    "sound": 65.79,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033949",
+    "temperature": 22.66,
+    "humidity": 43.2,
+    "sound": 67.17,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030737",
+    "temperature": 22.38,
+    "humidity": 44.45,
+    "sound": 64.68,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031362",
+    "temperature": 21.85,
+    "humidity": 44.38,
+    "sound": 65.04,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030422",
+    "temperature": 22.46,
+    "humidity": 45.44,
+    "sound": 65.13,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032989",
+    "temperature": 22.69,
+    "humidity": 43.96,
+    "sound": 66.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030579",
+    "temperature": 21.77,
+    "humidity": 45.87,
+    "sound": 64.58,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034393",
+    "temperature": 22.54,
+    "humidity": 43.73,
+    "sound": 65.64,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031144",
+    "temperature": 22.74,
+    "humidity": 45.55,
+    "sound": 65.66,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030639",
+    "temperature": 22.48,
+    "humidity": 45.21,
+    "sound": 65.51,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031325",
+    "temperature": 22.32,
+    "humidity": 46.09,
+    "sound": 65.94,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030213",
+    "temperature": 22.39,
+    "humidity": 45.2,
+    "sound": 63.75,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030451",
+    "temperature": 22.27,
+    "humidity": 44.12,
+    "sound": 65.14,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035252",
+    "temperature": 23.51,
+    "humidity": 43.56,
+    "sound": 64.74,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034006",
+    "temperature": 23.44,
+    "humidity": 42.45,
+    "sound": 66.68,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035675",
+    "temperature": 23.16,
+    "humidity": 55.0,
+    "sound": 79.27,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032072",
+    "temperature": 22.52,
+    "humidity": 44.74,
+    "sound": 66.24,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031470",
+    "temperature": 22.53,
+    "humidity": 44.65,
+    "sound": 64.89,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033609",
+    "temperature": 22.3,
+    "humidity": 44.15,
+    "sound": 66.77,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034750",
+    "temperature": 23.61,
+    "humidity": 43.76,
+    "sound": 65.84,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035821",
+    "temperature": 21.58,
+    "humidity": 43.15,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034276",
+    "temperature": 22.71,
+    "humidity": 42.3,
+    "sound": 65.65,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035803",
+    "temperature": 24.37,
+    "humidity": 47.78,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031997",
+    "temperature": 22.35,
+    "humidity": 45.1,
+    "sound": 65.88,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034205",
+    "temperature": 22.7,
+    "humidity": 43.34,
+    "sound": 65.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033087",
+    "temperature": 22.58,
+    "humidity": 43.83,
+    "sound": 65.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.036024",
+    "temperature": 24.01,
+    "humidity": 53.69,
+    "sound": 78.65,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032042",
+    "temperature": 22.21,
+    "humidity": 45.08,
+    "sound": 66.53,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031491",
+    "temperature": 21.92,
+    "humidity": 44.29,
+    "sound": 64.99,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030369",
+    "temperature": 21.91,
+    "humidity": 44.98,
+    "sound": 64.97,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034992",
+    "temperature": 23.35,
+    "humidity": 43.76,
+    "sound": 67.39,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035056",
+    "temperature": 23.24,
+    "humidity": 43.85,
+    "sound": 65.88,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032196",
+    "temperature": 22.88,
+    "humidity": 43.8,
+    "sound": 65.96,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035119",
+    "temperature": 23.55,
+    "humidity": 44.3,
+    "sound": 64.74,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032843",
+    "temperature": 21.18,
+    "humidity": 55.0,
+    "sound": 76.02,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030047",
+    "temperature": 21.97,
+    "humidity": 45.26,
+    "sound": 65.86,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030912",
+    "temperature": 22.26,
+    "humidity": 44.32,
+    "sound": 65.95,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.029937",
+    "temperature": 22.18,
+    "humidity": 44.16,
+    "sound": 64.43,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035286",
+    "temperature": 22.99,
+    "humidity": 44.61,
+    "sound": 66.49,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034613",
+    "temperature": 22.62,
+    "humidity": 42.35,
+    "sound": 64.75,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034697",
+    "temperature": 22.82,
+    "humidity": 43.16,
+    "sound": 66.96,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032884",
+    "temperature": 22.74,
+    "humidity": 44.39,
+    "sound": 66.85,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031385",
+    "temperature": 21.92,
+    "humidity": 45.72,
+    "sound": 64.59,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031063",
+    "temperature": 22.55,
+    "humidity": 45.7,
+    "sound": 66.46,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034399",
+    "temperature": 23.29,
+    "humidity": 43.88,
+    "sound": 65.52,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030076",
+    "temperature": 22.12,
+    "humidity": 44.11,
+    "sound": 65.1,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034312",
+    "temperature": 22.36,
+    "humidity": 43.6,
+    "sound": 65.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035536",
+    "temperature": 26.0,
+    "humidity": 52.26,
+    "sound": 78.04,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030568",
+    "temperature": 22.21,
+    "humidity": 45.08,
+    "sound": 65.52,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034282",
+    "temperature": 22.26,
+    "humidity": 42.65,
+    "sound": 66.54,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033598",
+    "temperature": 23.05,
+    "humidity": 43.68,
+    "sound": 65.96,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035548",
+    "temperature": 26.0,
+    "humidity": 48.86,
+    "sound": 80.77,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031264",
+    "temperature": 22.29,
+    "humidity": 45.35,
+    "sound": 66.01,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031435",
+    "temperature": 22.51,
+    "humidity": 45.39,
+    "sound": 65.08,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032215",
+    "temperature": 22.33,
+    "humidity": 45.07,
+    "sound": 65.87,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035061",
+    "temperature": 23.75,
+    "humidity": 43.99,
+    "sound": 66.58,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035291",
+    "temperature": 23.58,
+    "humidity": 43.49,
+    "sound": 66.44,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035315",
+    "temperature": 23.83,
+    "humidity": 43.71,
+    "sound": 65.38,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034425",
+    "temperature": 22.11,
+    "humidity": 41.38,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033212",
+    "temperature": 22.1,
+    "humidity": 44.35,
+    "sound": 66.03,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033347",
+    "temperature": 22.36,
+    "humidity": 43.05,
+    "sound": 66.42,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030347",
+    "temperature": 21.7,
+    "humidity": 44.22,
+    "sound": 64.65,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035581",
+    "temperature": 24.77,
+    "humidity": 55.0,
+    "sound": 79.23,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033995",
+    "temperature": 22.83,
+    "humidity": 42.37,
+    "sound": 66.7,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030178",
+    "temperature": 21.83,
+    "humidity": 44.3,
+    "sound": 64.78,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034240",
+    "temperature": 22.47,
+    "humidity": 42.97,
+    "sound": 65.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030533",
+    "temperature": 21.88,
+    "humidity": 44.6,
+    "sound": 64.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033855",
+    "temperature": 22.58,
+    "humidity": 42.61,
+    "sound": 65.78,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.029968",
+    "temperature": 21.66,
+    "humidity": 44.95,
+    "sound": 64.88,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.036016",
+    "temperature": 24.32,
+    "humidity": 53.64,
+    "sound": 78.47,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030330",
+    "temperature": 21.86,
+    "humidity": 44.15,
+    "sound": 65.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030668",
+    "temperature": 21.78,
+    "humidity": 44.72,
+    "sound": 64.53,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030306",
+    "temperature": 23.03,
+    "humidity": 51.82,
+    "sound": 82.72,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034418",
+    "temperature": 23.8,
+    "humidity": 52.8,
+    "sound": 76.25,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035587",
+    "temperature": 24.34,
+    "humidity": 55.0,
+    "sound": 68.73,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034480",
+    "temperature": 22.64,
+    "humidity": 43.1,
+    "sound": 65.31,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030574",
+    "temperature": 21.68,
+    "humidity": 44.22,
+    "sound": 64.66,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031001",
+    "temperature": 22.23,
+    "humidity": 44.3,
+    "sound": 64.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035263",
+    "temperature": 23.15,
+    "humidity": 44.31,
+    "sound": 66.23,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033483",
+    "temperature": 22.46,
+    "humidity": 43.49,
+    "sound": 67.58,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030053",
+    "temperature": 21.94,
+    "humidity": 45.45,
+    "sound": 64.73,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032612",
+    "temperature": 22.6,
+    "humidity": 44.89,
+    "sound": 65.43,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034761",
+    "temperature": 22.81,
+    "humidity": 43.98,
+    "sound": 66.85,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035651",
+    "temperature": 20.16,
+    "humidity": 55.0,
+    "sound": 67.51,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031969",
+    "temperature": 22.04,
+    "humidity": 44.1,
+    "sound": 65.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034167",
+    "temperature": 20.74,
+    "humidity": 55.0,
+    "sound": 78.18,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034797",
+    "temperature": 23.07,
+    "humidity": 44.22,
+    "sound": 66.84,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034880",
+    "temperature": 23.63,
+    "humidity": 44.06,
+    "sound": 67.56,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033850",
+    "temperature": 23.14,
+    "humidity": 42.67,
+    "sound": 65.93,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032895",
+    "temperature": 22.01,
+    "humidity": 44.8,
+    "sound": 66.5,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035614",
+    "temperature": 24.42,
+    "humidity": 55.0,
+    "sound": 66.94,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033453",
+    "temperature": 22.54,
+    "humidity": 42.72,
+    "sound": 66.62,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032443",
+    "temperature": 22.6,
+    "humidity": 43.89,
+    "sound": 66.27,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035575",
+    "temperature": 24.49,
+    "humidity": 55.0,
+    "sound": 78.27,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031052",
+    "temperature": 22.58,
+    "humidity": 44.32,
+    "sound": 66.02,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035992",
+    "temperature": 24.08,
+    "humidity": 53.62,
+    "sound": 80.3,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033207",
+    "temperature": 22.13,
+    "humidity": 43.74,
+    "sound": 66.05,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031440",
+    "temperature": 22.28,
+    "humidity": 45.34,
+    "sound": 65.56,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033528",
+    "temperature": 22.29,
+    "humidity": 42.91,
+    "sound": 66.9,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033517",
+    "temperature": 22.35,
+    "humidity": 43.66,
+    "sound": 65.62,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.029962",
+    "temperature": 21.66,
+    "humidity": 45.62,
+    "sound": 65.32,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035005",
+    "temperature": 23.95,
+    "humidity": 42.75,
+    "sound": 66.36,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031133",
+    "temperature": 22.74,
+    "humidity": 45.57,
+    "sound": 65.47,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.036030",
+    "temperature": 23.37,
+    "humidity": 52.66,
+    "sound": 81.51,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035760",
+    "temperature": 23.96,
+    "humidity": 40.97,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031331",
+    "temperature": 22.04,
+    "humidity": 44.98,
+    "sound": 66.07,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030110",
+    "temperature": 21.66,
+    "humidity": 43.82,
+    "sound": 64.5,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035166",
+    "temperature": 23.07,
+    "humidity": 44.4,
+    "sound": 65.64,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031908",
+    "temperature": 22.64,
+    "humidity": 43.31,
+    "sound": 66.49,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034836",
+    "temperature": 22.94,
+    "humidity": 43.31,
+    "sound": 67.42,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030428",
+    "temperature": 22.45,
+    "humidity": 44.5,
+    "sound": 65.83,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030615",
+    "temperature": 22.29,
+    "humidity": 45.32,
+    "sound": 63.98,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031177",
+    "temperature": 22.3,
+    "humidity": 44.41,
+    "sound": 65.5,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035569",
+    "temperature": 24.6,
+    "humidity": 55.0,
+    "sound": 79.26,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030387",
+    "temperature": 21.8,
+    "humidity": 43.72,
+    "sound": 64.42,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033883",
+    "temperature": 22.66,
+    "humidity": 43.78,
+    "sound": 67.72,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033900",
+    "temperature": 23.47,
+    "humidity": 42.88,
+    "sound": 66.64,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031941",
+    "temperature": 22.61,
+    "humidity": 43.53,
+    "sound": 65.31,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035930",
+    "temperature": 25.0,
+    "humidity": 52.94,
+    "sound": 77.93,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035044",
+    "temperature": 24.06,
+    "humidity": 42.44,
+    "sound": 66.65,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032237",
+    "temperature": 22.73,
+    "humidity": 44.11,
+    "sound": 65.99,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035530",
+    "temperature": 26.0,
+    "humidity": 47.34,
+    "sound": 82.97,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.029929",
+    "temperature": 22.3,
+    "humidity": 45.86,
+    "sound": 64.86,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035280",
+    "temperature": 23.66,
+    "humidity": 44.6,
+    "sound": 66.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033383",
+    "temperature": 22.68,
+    "humidity": 43.38,
+    "sound": 66.54,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035632",
+    "temperature": 22.98,
+    "humidity": 55.0,
+    "sound": 69.44,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035845",
+    "temperature": 22.76,
+    "humidity": 52.88,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035142",
+    "temperature": 23.79,
+    "humidity": 43.83,
+    "sound": 65.52,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032758",
+    "temperature": 22.3,
+    "humidity": 44.36,
+    "sound": 66.79,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034073",
+    "temperature": 22.75,
+    "humidity": 42.84,
+    "sound": 67.88,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032318",
+    "temperature": 23.22,
+    "humidity": 44.97,
+    "sound": 65.06,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030248",
+    "temperature": 22.18,
+    "humidity": 43.37,
+    "sound": 64.52,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031615",
+    "temperature": 22.0,
+    "humidity": 45.75,
+    "sound": 65.57,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030767",
+    "temperature": 22.09,
+    "humidity": 45.23,
+    "sound": 64.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035310",
+    "temperature": 23.14,
+    "humidity": 44.57,
+    "sound": 64.95,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033861",
+    "temperature": 22.72,
+    "humidity": 43.22,
+    "sound": 66.12,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033562",
+    "temperature": 22.5,
+    "humidity": 43.45,
+    "sound": 65.88,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033287",
+    "temperature": 22.74,
+    "humidity": 44.33,
+    "sound": 66.39,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033324",
+    "temperature": 22.26,
+    "humidity": 44.04,
+    "sound": 67.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034460",
+    "temperature": 22.46,
+    "humidity": 42.96,
+    "sound": 65.1,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034097",
+    "temperature": 22.95,
+    "humidity": 44.08,
+    "sound": 67.23,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031811",
+    "temperature": 22.84,
+    "humidity": 45.3,
+    "sound": 65.8,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034802",
+    "temperature": 23.3,
+    "humidity": 43.98,
+    "sound": 67.09,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030485",
+    "temperature": 22.43,
+    "humidity": 45.01,
+    "sound": 64.95,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030173",
+    "temperature": 22.51,
+    "humidity": 55.0,
+    "sound": 71.39,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032060",
+    "temperature": 22.23,
+    "humidity": 44.97,
+    "sound": 65.65,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034359",
+    "temperature": 22.5,
+    "humidity": 43.03,
+    "sound": 65.48,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033809",
+    "temperature": 23.09,
+    "humidity": 43.96,
+    "sound": 66.98,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035321",
+    "temperature": 23.18,
+    "humidity": 43.59,
+    "sound": 65.31,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032019",
+    "temperature": 22.74,
+    "humidity": 45.42,
+    "sound": 65.91,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030499",
+    "temperature": 22.2,
+    "humidity": 45.48,
+    "sound": 65.21,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032126",
+    "temperature": 22.96,
+    "humidity": 43.14,
+    "sound": 66.72,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032357",
+    "temperature": 23.09,
+    "humidity": 43.98,
+    "sound": 65.41,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033070",
+    "temperature": 22.61,
+    "humidity": 44.12,
+    "sound": 66.51,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032159",
+    "temperature": 26.0,
+    "humidity": 55.0,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030697",
+    "temperature": 24.73,
+    "humidity": 52.69,
+    "sound": 78.88,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032300",
+    "temperature": 22.78,
+    "humidity": 43.74,
+    "sound": 64.8,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033298",
+    "temperature": 22.66,
+    "humidity": 44.7,
+    "sound": 66.02,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034998",
+    "temperature": 23.3,
+    "humidity": 43.6,
+    "sound": 66.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032394",
+    "temperature": 22.9,
+    "humidity": 44.73,
+    "sound": 65.08,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033132",
+    "temperature": 22.22,
+    "humidity": 44.65,
+    "sound": 66.24,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035368",
+    "temperature": 23.68,
+    "humidity": 44.1,
+    "sound": 65.2,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032270",
+    "temperature": 23.36,
+    "humidity": 44.49,
+    "sound": 65.57,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032340",
+    "temperature": 22.81,
+    "humidity": 43.31,
+    "sound": 65.03,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034365",
+    "temperature": 22.89,
+    "humidity": 42.76,
+    "sound": 67.0,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035693",
+    "temperature": 22.42,
+    "humidity": 55.0,
+    "sound": 65.11,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033054",
+    "temperature": 22.24,
+    "humidity": 44.09,
+    "sound": 66.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034975",
+    "temperature": 23.13,
+    "humidity": 42.47,
+    "sound": 66.2,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033231",
+    "temperature": 22.72,
+    "humidity": 43.38,
+    "sound": 65.91,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034951",
+    "temperature": 23.18,
+    "humidity": 42.77,
+    "sound": 66.79,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030434",
+    "temperature": 24.19,
+    "humidity": 42.13,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031336",
+    "temperature": 22.69,
+    "humidity": 44.34,
+    "sound": 64.93,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031196",
+    "temperature": 22.41,
+    "humidity": 44.33,
+    "sound": 65.48,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031567",
+    "temperature": 22.61,
+    "humidity": 43.93,
+    "sound": 65.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035303",
+    "temperature": 20.43,
+    "humidity": 55.0,
+    "sound": 79.22,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034160",
+    "temperature": 22.81,
+    "humidity": 44.52,
+    "sound": 67.3,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032978",
+    "temperature": 22.68,
+    "humidity": 43.65,
+    "sound": 66.64,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034744",
+    "temperature": 23.63,
+    "humidity": 42.84,
+    "sound": 65.31,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033911",
+    "temperature": 22.85,
+    "humidity": 43.66,
+    "sound": 65.87,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030562",
+    "temperature": 22.03,
+    "humidity": 44.83,
+    "sound": 65.24,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032307",
+    "temperature": 23.22,
+    "humidity": 55.0,
+    "sound": 69.14,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035681",
+    "temperature": 23.36,
+    "humidity": 55.0,
+    "sound": 66.65,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035894",
+    "temperature": 24.35,
+    "humidity": 53.14,
+    "sound": 77.83,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031741",
+    "temperature": 22.44,
+    "humidity": 44.12,
+    "sound": 64.98,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035489",
+    "temperature": 26.0,
+    "humidity": 55.0,
+    "sound": 71.07,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033120",
+    "temperature": 22.76,
+    "humidity": 43.01,
+    "sound": 65.95,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033442",
+    "temperature": 22.93,
+    "humidity": 43.49,
+    "sound": 67.78,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034496",
+    "temperature": 22.67,
+    "humidity": 42.81,
+    "sound": 65.06,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032203",
+    "temperature": 26.0,
+    "humidity": 53.84,
+    "sound": 78.06,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033644",
+    "temperature": 22.86,
+    "humidity": 44.25,
+    "sound": 66.98,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033844",
+    "temperature": 22.81,
+    "humidity": 43.22,
+    "sound": 67.11,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031464",
+    "temperature": 22.33,
+    "humidity": 43.99,
+    "sound": 66.71,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032431",
+    "temperature": 23.23,
+    "humidity": 43.6,
+    "sound": 64.93,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034786",
+    "temperature": 22.86,
+    "humidity": 43.9,
+    "sound": 65.78,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031633",
+    "temperature": 22.01,
+    "humidity": 44.47,
+    "sound": 66.39,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033477",
+    "temperature": 23.11,
+    "humidity": 43.27,
+    "sound": 67.81,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033620",
+    "temperature": 22.82,
+    "humidity": 43.29,
+    "sound": 66.41,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033424",
+    "temperature": 22.98,
+    "humidity": 42.64,
+    "sound": 67.03,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032437",
+    "temperature": 22.5,
+    "humidity": 43.99,
+    "sound": 65.3,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033031",
+    "temperature": 22.17,
+    "humidity": 43.13,
+    "sound": 66.05,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034716",
+    "temperature": 22.88,
+    "humidity": 42.53,
+    "sound": 66.52,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031429",
+    "temperature": 21.98,
+    "humidity": 44.4,
+    "sound": 65.35,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034387",
+    "temperature": 22.68,
+    "humidity": 43.45,
+    "sound": 66.02,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031719",
+    "temperature": 22.38,
+    "humidity": 44.17,
+    "sound": 65.81,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030855",
+    "temperature": 21.83,
+    "humidity": 43.76,
+    "sound": 65.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030679",
+    "temperature": 22.07,
+    "humidity": 44.81,
+    "sound": 65.42,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033791",
+    "temperature": 22.88,
+    "humidity": 43.97,
+    "sound": 66.09,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030748",
+    "temperature": 21.77,
+    "humidity": 45.7,
+    "sound": 65.26,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031292",
+    "temperature": 22.68,
+    "humidity": 44.66,
+    "sound": 65.59,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035942",
+    "temperature": 23.27,
+    "humidity": 53.62,
+    "sound": 83.64,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031964",
+    "temperature": 22.88,
+    "humidity": 44.25,
+    "sound": 65.73,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031913",
+    "temperature": 22.03,
+    "humidity": 44.99,
+    "sound": 65.9,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030446",
+    "temperature": 22.02,
+    "humidity": 44.41,
+    "sound": 65.42,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035050",
+    "temperature": 23.26,
+    "humidity": 43.97,
+    "sound": 67.02,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030861",
+    "temperature": 21.85,
+    "humidity": 43.95,
+    "sound": 65.99,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031224",
+    "temperature": 22.18,
+    "humidity": 44.82,
+    "sound": 64.36,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033259",
+    "temperature": 22.16,
+    "humidity": 43.0,
+    "sound": 67.14,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031573",
+    "temperature": 21.91,
+    "humidity": 43.75,
+    "sound": 66.31,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035406",
+    "temperature": 26.0,
+    "humidity": 47.05,
+    "sound": 80.23,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030975",
+    "temperature": 22.37,
+    "humidity": 45.08,
+    "sound": 65.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031843",
+    "temperature": 22.6,
+    "humidity": 44.25,
+    "sound": 66.36,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034032",
+    "temperature": 22.94,
+    "humidity": 43.65,
+    "sound": 68.03,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033459",
+    "temperature": 22.41,
+    "humidity": 44.43,
+    "sound": 67.79,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033076",
+    "temperature": 22.59,
+    "humidity": 43.69,
+    "sound": 65.63,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032231",
+    "temperature": 23.24,
+    "humidity": 44.87,
+    "sound": 65.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032513",
+    "temperature": 23.01,
+    "humidity": 43.73,
+    "sound": 64.74,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030280",
+    "temperature": 21.77,
+    "humidity": 43.24,
+    "sound": 63.87,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030931",
+    "temperature": 22.31,
+    "humidity": 43.96,
+    "sound": 66.01,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032724",
+    "temperature": 22.58,
+    "humidity": 43.39,
+    "sound": 67.18,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034911",
+    "temperature": 23.38,
+    "humidity": 43.6,
+    "sound": 67.12,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035326",
+    "temperature": 23.35,
+    "humidity": 43.8,
+    "sound": 65.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033341",
+    "temperature": 22.26,
+    "humidity": 43.85,
+    "sound": 66.56,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035705",
+    "temperature": 21.56,
+    "humidity": 55.0,
+    "sound": 66.12,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034067",
+    "temperature": 23.17,
+    "humidity": 43.35,
+    "sound": 66.44,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034847",
+    "temperature": 23.58,
+    "humidity": 44.13,
+    "sound": 67.41,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035083",
+    "temperature": 23.36,
+    "humidity": 43.86,
+    "sound": 66.77,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035998",
+    "temperature": 24.76,
+    "humidity": 52.68,
+    "sound": 80.16,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034774",
+    "temperature": 23.23,
+    "humidity": 43.45,
+    "sound": 65.63,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032567",
+    "temperature": 22.16,
+    "humidity": 44.62,
+    "sound": 65.31,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033724",
+    "temperature": 22.98,
+    "humidity": 43.47,
+    "sound": 65.84,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033106",
+    "temperature": 22.63,
+    "humidity": 44.2,
+    "sound": 67.41,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032718",
+    "temperature": 22.78,
+    "humidity": 43.82,
+    "sound": 65.98,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032209",
+    "temperature": 23.11,
+    "humidity": 43.45,
+    "sound": 64.99,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032077",
+    "temperature": 22.82,
+    "humidity": 45.12,
+    "sound": 66.52,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032083",
+    "temperature": 22.88,
+    "humidity": 45.18,
+    "sound": 65.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031149",
+    "temperature": 22.15,
+    "humidity": 46.07,
+    "sound": 65.94,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030064",
+    "temperature": 22.22,
+    "humidity": 45.41,
+    "sound": 64.36,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032996",
+    "temperature": 21.96,
+    "humidity": 43.69,
+    "sound": 66.27,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035772",
+    "temperature": 22.27,
+    "humidity": 42.16,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030685",
+    "temperature": 21.88,
+    "humidity": 44.04,
+    "sound": 64.1,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030358",
+    "temperature": 22.23,
+    "humidity": 43.59,
+    "sound": 64.42,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031013",
+    "temperature": 21.79,
+    "humidity": 44.69,
+    "sound": 66.23,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035766",
+    "temperature": 20.89,
+    "humidity": 40.8,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033786",
+    "temperature": 23.16,
+    "humidity": 44.37,
+    "sound": 67.12,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033372",
+    "temperature": 22.47,
+    "humidity": 43.41,
+    "sound": 67.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034555",
+    "temperature": 22.8,
+    "humidity": 42.56,
+    "sound": 66.55,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031418",
+    "temperature": 22.79,
+    "humidity": 44.36,
+    "sound": 64.65,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030341",
+    "temperature": 22.01,
+    "humidity": 43.83,
+    "sound": 64.39,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034574",
+    "temperature": 23.29,
+    "humidity": 43.5,
+    "sound": 65.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032031",
+    "temperature": 22.72,
+    "humidity": 43.86,
+    "sound": 65.68,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033472",
+    "temperature": 22.15,
+    "humidity": 43.39,
+    "sound": 66.2,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035873",
+    "temperature": 21.89,
+    "humidity": 48.86,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033394",
+    "temperature": 22.48,
+    "humidity": 42.94,
+    "sound": 67.62,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031735",
+    "temperature": 22.64,
+    "humidity": 44.31,
+    "sound": 64.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034000",
+    "temperature": 23.53,
+    "humidity": 44.1,
+    "sound": 67.04,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034354",
+    "temperature": 23.14,
+    "humidity": 43.02,
+    "sound": 65.29,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033546",
+    "temperature": 22.59,
+    "humidity": 43.84,
+    "sound": 66.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033100",
+    "temperature": 22.61,
+    "humidity": 43.48,
+    "sound": 66.95,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030036",
+    "temperature": 21.74,
+    "humidity": 44.11,
+    "sound": 65.86,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035172",
+    "temperature": 23.26,
+    "humidity": 44.37,
+    "sound": 65.85,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034431",
+    "temperature": 23.28,
+    "humidity": 42.13,
+    "sound": 66.0,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031030",
+    "temperature": 22.6,
+    "humidity": 43.92,
+    "sound": 65.82,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033686",
+    "temperature": 22.66,
+    "humidity": 43.74,
+    "sound": 67.54,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030970",
+    "temperature": 21.8,
+    "humidity": 44.3,
+    "sound": 66.54,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031074",
+    "temperature": 22.03,
+    "humidity": 44.71,
+    "sound": 65.91,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035797",
+    "temperature": 20.99,
+    "humidity": 46.67,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033639",
+    "temperature": 22.89,
+    "humidity": 44.23,
+    "sound": 65.75,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033895",
+    "temperature": 23.19,
+    "humidity": 42.75,
+    "sound": 66.21,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033557",
+    "temperature": 22.43,
+    "humidity": 42.37,
+    "sound": 65.96,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032055",
+    "temperature": 22.62,
+    "humidity": 44.36,
+    "sound": 64.76,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033814",
+    "temperature": 23.18,
+    "humidity": 44.37,
+    "sound": 67.61,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035442",
+    "temperature": 26.0,
+    "humidity": 47.4,
+    "sound": 75.35,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033839",
+    "temperature": 22.92,
+    "humidity": 43.03,
+    "sound": 65.75,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031579",
+    "temperature": 22.37,
+    "humidity": 44.1,
+    "sound": 66.18,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031902",
+    "temperature": 22.59,
+    "humidity": 44.13,
+    "sound": 66.66,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.029956",
+    "temperature": 21.84,
+    "humidity": 44.8,
+    "sound": 65.59,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034905",
+    "temperature": 23.0,
+    "humidity": 43.14,
+    "sound": 67.87,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035224",
+    "temperature": 23.21,
+    "humidity": 43.19,
+    "sound": 65.01,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034520",
+    "temperature": 23.02,
+    "humidity": 43.38,
+    "sound": 65.64,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033377",
+    "temperature": 22.15,
+    "humidity": 43.68,
+    "sound": 66.34,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032573",
+    "temperature": 22.18,
+    "humidity": 43.5,
+    "sound": 66.01,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034780",
+    "temperature": 23.68,
+    "humidity": 44.1,
+    "sound": 67.22,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033494",
+    "temperature": 22.28,
+    "humidity": 43.52,
+    "sound": 67.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031057",
+    "temperature": 22.35,
+    "humidity": 45.81,
+    "sound": 64.9,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033955",
+    "temperature": 23.37,
+    "humidity": 44.26,
+    "sound": 67.5,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031380",
+    "temperature": 21.99,
+    "humidity": 45.22,
+    "sound": 64.55,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033489",
+    "temperature": 22.86,
+    "humidity": 44.26,
+    "sound": 66.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035230",
+    "temperature": 23.77,
+    "humidity": 44.36,
+    "sound": 66.12,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033253",
+    "temperature": 22.02,
+    "humidity": 43.73,
+    "sound": 67.04,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031344",
+    "temperature": 22.59,
+    "humidity": 44.67,
+    "sound": 66.16,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034842",
+    "temperature": 23.71,
+    "humidity": 43.36,
+    "sound": 66.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030995",
+    "temperature": 22.67,
+    "humidity": 44.97,
+    "sound": 66.16,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033407",
+    "temperature": 22.31,
+    "humidity": 43.31,
+    "sound": 66.34,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033889",
+    "temperature": 23.25,
+    "humidity": 42.48,
+    "sound": 66.84,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035200",
+    "temperature": 23.74,
+    "humidity": 44.28,
+    "sound": 66.3,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031930",
+    "temperature": 22.29,
+    "humidity": 45.32,
+    "sound": 66.83,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035177",
+    "temperature": 23.04,
+    "humidity": 43.66,
+    "sound": 66.27,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031041",
+    "temperature": 22.1,
+    "humidity": 44.61,
+    "sound": 65.73,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033918",
+    "temperature": 22.9,
+    "humidity": 44.11,
+    "sound": 66.36,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032375",
+    "temperature": 22.57,
+    "humidity": 44.91,
+    "sound": 64.98,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032584",
+    "temperature": 22.9,
+    "humidity": 44.73,
+    "sound": 66.07,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032454",
+    "temperature": 22.51,
+    "humidity": 43.72,
+    "sound": 64.98,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032324",
+    "temperature": 23.45,
+    "humidity": 43.59,
+    "sound": 65.72,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032259",
+    "temperature": 23.4,
+    "humidity": 45.13,
+    "sound": 65.06,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030835",
+    "temperature": 21.88,
+    "humidity": 44.71,
+    "sound": 65.32,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031537",
+    "temperature": 22.07,
+    "humidity": 44.66,
+    "sound": 65.08,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031707",
+    "temperature": 22.25,
+    "humidity": 44.73,
+    "sound": 64.86,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033713",
+    "temperature": 22.49,
+    "humidity": 43.17,
+    "sound": 67.06,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030082",
+    "temperature": 21.84,
+    "humidity": 45.05,
+    "sound": 65.68,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032983",
+    "temperature": 21.88,
+    "humidity": 43.49,
+    "sound": 66.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035912",
+    "temperature": 23.92,
+    "humidity": 52.48,
+    "sound": 77.63,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030988",
+    "temperature": 22.39,
+    "humidity": 44.45,
+    "sound": 64.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032406",
+    "temperature": 23.37,
+    "humidity": 44.33,
+    "sound": 64.72,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035194",
+    "temperature": 23.69,
+    "humidity": 43.66,
+    "sound": 65.53,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033943",
+    "temperature": 23.33,
+    "humidity": 42.72,
+    "sound": 66.3,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032036",
+    "temperature": 22.15,
+    "humidity": 45.47,
+    "sound": 65.1,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031925",
+    "temperature": 22.24,
+    "humidity": 44.77,
+    "sound": 66.09,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034981",
+    "temperature": 23.22,
+    "humidity": 43.98,
+    "sound": 67.71,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033019",
+    "temperature": 22.68,
+    "humidity": 43.18,
+    "sound": 66.66,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033008",
+    "temperature": 22.29,
+    "humidity": 43.05,
+    "sound": 66.84,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030756",
+    "temperature": 22.23,
+    "humidity": 45.15,
+    "sound": 64.21,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030207",
+    "temperature": 22.25,
+    "humidity": 44.19,
+    "sound": 65.42,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031484",
+    "temperature": 23.81,
+    "humidity": 54.92,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034933",
+    "temperature": 23.19,
+    "humidity": 43.16,
+    "sound": 68.34,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035960",
+    "temperature": 23.86,
+    "humidity": 53.38,
+    "sound": 82.72,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034791",
+    "temperature": 23.26,
+    "humidity": 43.8,
+    "sound": 65.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035669",
+    "temperature": 24.1,
+    "humidity": 55.0,
+    "sound": 77.26,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033126",
+    "temperature": 22.18,
+    "humidity": 44.05,
+    "sound": 67.07,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031730",
+    "temperature": 22.42,
+    "humidity": 44.09,
+    "sound": 65.23,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030843",
+    "temperature": 20.78,
+    "humidity": 45.63,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032730",
+    "temperature": 22.41,
+    "humidity": 44.26,
+    "sound": 66.26,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030335",
+    "temperature": 21.88,
+    "humidity": 45.26,
+    "sound": 65.18,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031087",
+    "temperature": 22.73,
+    "humidity": 45.09,
+    "sound": 66.26,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031309",
+    "temperature": 22.51,
+    "humidity": 44.23,
+    "sound": 65.65,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032276",
+    "temperature": 23.15,
+    "humidity": 43.1,
+    "sound": 66.28,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033764",
+    "temperature": 22.68,
+    "humidity": 43.3,
+    "sound": 66.88,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035815",
+    "temperature": 21.61,
+    "humidity": 40.87,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032699",
+    "temperature": 22.7,
+    "humidity": 44.79,
+    "sound": 65.63,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035016",
+    "temperature": 23.8,
+    "humidity": 42.91,
+    "sound": 67.54,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030516",
+    "temperature": 21.94,
+    "humidity": 44.16,
+    "sound": 63.93,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034329",
+    "temperature": 22.29,
+    "humidity": 43.28,
+    "sound": 66.12,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032944",
+    "temperature": 22.48,
+    "humidity": 42.79,
+    "sound": 66.43,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032778",
+    "temperature": 24.58,
+    "humidity": 51.76,
+    "sound": 82.14,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033436",
+    "temperature": 23.07,
+    "humidity": 44.07,
+    "sound": 67.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031457",
+    "temperature": 22.62,
+    "humidity": 45.23,
+    "sound": 65.58,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035518",
+    "temperature": 26.0,
+    "humidity": 55.0,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030352",
+    "temperature": 21.53,
+    "humidity": 44.59,
+    "sound": 65.12,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034014",
+    "temperature": 22.86,
+    "humidity": 43.72,
+    "sound": 65.89,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031100",
+    "temperature": 22.23,
+    "humidity": 44.68,
+    "sound": 65.24,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032145",
+    "temperature": 23.27,
+    "humidity": 44.31,
+    "sound": 65.72,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034142",
+    "temperature": 22.68,
+    "humidity": 43.62,
+    "sound": 65.79,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030703",
+    "temperature": 21.79,
+    "humidity": 44.26,
+    "sound": 65.8,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031412",
+    "temperature": 24.64,
+    "humidity": 52.22,
+    "sound": 83.39,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030964",
+    "temperature": 22.04,
+    "humidity": 44.97,
+    "sound": 66.05,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031320",
+    "temperature": 22.73,
+    "humidity": 45.03,
+    "sound": 66.32,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034371",
+    "temperature": 23.26,
+    "humidity": 42.12,
+    "sound": 66.44,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034814",
+    "temperature": 22.83,
+    "humidity": 42.56,
+    "sound": 67.41,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035725",
+    "temperature": 24.8,
+    "humidity": 50.43,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035483",
+    "temperature": 26.0,
+    "humidity": 55.0,
+    "sound": 80.84,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034443",
+    "temperature": 23.05,
+    "humidity": 42.08,
+    "sound": 65.28,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033242",
+    "temperature": 22.04,
+    "humidity": 42.94,
+    "sound": 66.32,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031592",
+    "temperature": 21.99,
+    "humidity": 44.73,
+    "sound": 66.39,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031885",
+    "temperature": 21.89,
+    "humidity": 43.4,
+    "sound": 66.06,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030544",
+    "temperature": 21.71,
+    "humidity": 44.49,
+    "sound": 65.37,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035460",
+    "temperature": 26.0,
+    "humidity": 49.31,
+    "sound": 74.01,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034148",
+    "temperature": 22.59,
+    "humidity": 43.6,
+    "sound": 67.11,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030474",
+    "temperature": 21.83,
+    "humidity": 45.63,
+    "sound": 65.38,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030491",
+    "temperature": 22.02,
+    "humidity": 43.91,
+    "sound": 64.04,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035454",
+    "temperature": 26.0,
+    "humidity": 55.0,
+    "sound": 83.96,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030817",
+    "temperature": 21.67,
+    "humidity": 43.91,
+    "sound": 66.16,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035430",
+    "temperature": 26.0,
+    "humidity": 55.0,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031747",
+    "temperature": 22.13,
+    "humidity": 44.45,
+    "sound": 64.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.036004",
+    "temperature": 23.68,
+    "humidity": 52.11,
+    "sound": 80.34,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031035",
+    "temperature": 22.62,
+    "humidity": 45.5,
+    "sound": 64.63,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032950",
+    "temperature": 22.09,
+    "humidity": 44.5,
+    "sound": 65.44,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030879",
+    "temperature": 22.35,
+    "humidity": 44.56,
+    "sound": 64.8,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034382",
+    "temperature": 23.18,
+    "humidity": 42.46,
+    "sound": 65.87,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033065",
+    "temperature": 22.44,
+    "humidity": 42.94,
+    "sound": 66.88,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035147",
+    "temperature": 23.56,
+    "humidity": 43.88,
+    "sound": 66.57,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035219",
+    "temperature": 23.13,
+    "humidity": 44.3,
+    "sound": 65.96,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033196",
+    "temperature": 22.47,
+    "humidity": 44.52,
+    "sound": 67.23,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033551",
+    "temperature": 22.61,
+    "humidity": 43.78,
+    "sound": 65.87,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031661",
+    "temperature": 22.13,
+    "humidity": 45.82,
+    "sound": 64.74,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032066",
+    "temperature": 22.59,
+    "humidity": 43.55,
+    "sound": 65.74,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030468",
+    "temperature": 21.55,
+    "humidity": 44.52,
+    "sound": 64.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030947",
+    "temperature": 21.82,
+    "humidity": 44.22,
+    "sound": 64.78,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031880",
+    "temperature": 22.71,
+    "humidity": 43.92,
+    "sound": 65.13,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034561",
+    "temperature": 23.14,
+    "humidity": 43.91,
+    "sound": 66.63,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034585",
+    "temperature": 22.54,
+    "humidity": 43.44,
+    "sound": 64.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031854",
+    "temperature": 21.87,
+    "humidity": 44.9,
+    "sound": 65.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033615",
+    "temperature": 23.15,
+    "humidity": 42.7,
+    "sound": 67.39,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034887",
+    "temperature": 23.78,
+    "humidity": 42.82,
+    "sound": 67.5,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033281",
+    "temperature": 21.97,
+    "humidity": 43.07,
+    "sound": 67.47,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032363",
+    "temperature": 22.62,
+    "humidity": 44.75,
+    "sound": 65.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031752",
+    "temperature": 22.23,
+    "humidity": 44.51,
+    "sound": 64.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032049",
+    "temperature": 22.59,
+    "humidity": 44.31,
+    "sound": 66.13,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032109",
+    "temperature": 26.0,
+    "humidity": 46.38,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033042",
+    "temperature": 22.03,
+    "humidity": 43.41,
+    "sound": 65.68,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030522",
+    "temperature": 21.6,
+    "humidity": 44.65,
+    "sound": 64.56,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035948",
+    "temperature": 23.13,
+    "humidity": 53.91,
+    "sound": 82.99,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033059",
+    "temperature": 22.07,
+    "humidity": 43.35,
+    "sound": 66.73,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033248",
+    "temperature": 22.46,
+    "humidity": 44.19,
+    "sound": 67.41,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034825",
+    "temperature": 23.14,
+    "humidity": 42.91,
+    "sound": 66.26,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035038",
+    "temperature": 23.86,
+    "humidity": 42.17,
+    "sound": 65.36,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035638",
+    "temperature": 21.48,
+    "humidity": 55.0,
+    "sound": 74.21,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035663",
+    "temperature": 22.75,
+    "humidity": 55.0,
+    "sound": 66.32,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034808",
+    "temperature": 23.15,
+    "humidity": 42.87,
+    "sound": 67.13,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031763",
+    "temperature": 22.6,
+    "humidity": 44.5,
+    "sound": 66.24,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034449",
+    "temperature": 22.77,
+    "humidity": 43.05,
+    "sound": 66.11,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034043",
+    "temperature": 23.32,
+    "humidity": 43.51,
+    "sound": 68.31,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035860",
+    "temperature": 21.5,
+    "humidity": 51.17,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032412",
+    "temperature": 23.17,
+    "humidity": 44.67,
+    "sound": 64.76,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033758",
+    "temperature": 22.29,
+    "humidity": 43.87,
+    "sound": 65.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035357",
+    "temperature": 23.15,
+    "humidity": 44.64,
+    "sound": 66.48,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035608",
+    "temperature": 24.01,
+    "humidity": 55.0,
+    "sound": 71.77,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032920",
+    "temperature": 22.13,
+    "humidity": 42.93,
+    "sound": 66.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032967",
+    "temperature": 22.82,
+    "humidity": 43.58,
+    "sound": 66.37,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033418",
+    "temperature": 26.0,
+    "humidity": 47.67,
+    "sound": 77.66,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031542",
+    "temperature": 22.46,
+    "humidity": 43.93,
+    "sound": 64.47,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032139",
+    "temperature": 23.12,
+    "humidity": 44.89,
+    "sound": 65.29,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030241",
+    "temperature": 22.08,
+    "humidity": 44.04,
+    "sound": 64.03,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031303",
+    "temperature": 22.51,
+    "humidity": 46.1,
+    "sound": 64.76,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032537",
+    "temperature": 22.45,
+    "humidity": 44.19,
+    "sound": 65.36,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030743",
+    "temperature": 22.5,
+    "humidity": 44.36,
+    "sound": 64.44,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032388",
+    "temperature": 22.69,
+    "humidity": 44.08,
+    "sound": 64.43,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032938",
+    "temperature": 22.17,
+    "humidity": 44.53,
+    "sound": 66.99,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033201",
+    "temperature": 22.11,
+    "humidity": 43.18,
+    "sound": 66.87,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034739",
+    "temperature": 23.27,
+    "humidity": 43.28,
+    "sound": 65.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034964",
+    "temperature": 23.74,
+    "humidity": 43.97,
+    "sound": 66.19,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030907",
+    "temperature": 21.82,
+    "humidity": 44.88,
+    "sound": 65.31,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030527",
+    "temperature": 21.89,
+    "humidity": 45.18,
+    "sound": 63.84,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031232",
+    "temperature": 22.34,
+    "humidity": 44.87,
+    "sound": 64.74,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033447",
+    "temperature": 22.4,
+    "humidity": 43.31,
+    "sound": 67.0,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035809",
+    "temperature": 23.72,
+    "humidity": 40.86,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034656",
+    "temperature": 22.95,
+    "humidity": 43.27,
+    "sound": 65.0,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033237",
+    "temperature": 22.52,
+    "humidity": 43.53,
+    "sound": 65.8,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031393",
+    "temperature": 24.56,
+    "humidity": 52.14,
+    "sound": 82.49,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034602",
+    "temperature": 23.42,
+    "humidity": 43.93,
+    "sound": 64.63,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034348",
+    "temperature": 22.6,
+    "humidity": 43.38,
+    "sound": 66.53,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032747",
+    "temperature": 22.89,
+    "humidity": 43.48,
+    "sound": 66.65,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030254",
+    "temperature": 22.37,
+    "humidity": 44.04,
+    "sound": 63.66,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031213",
+    "temperature": 21.86,
+    "humidity": 45.87,
+    "sound": 64.19,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033184",
+    "temperature": 22.31,
+    "humidity": 44.33,
+    "sound": 66.26,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035936",
+    "temperature": 23.68,
+    "humidity": 51.59,
+    "sound": 78.81,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030918",
+    "temperature": 22.39,
+    "humidity": 44.12,
+    "sound": 64.7,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035507",
+    "temperature": 26.0,
+    "humidity": 51.22,
+    "sound": 71.14,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035972",
+    "temperature": 23.19,
+    "humidity": 53.41,
+    "sound": 76.46,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034211",
+    "temperature": 22.62,
+    "humidity": 44.26,
+    "sound": 66.07,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032915",
+    "temperature": 22.75,
+    "humidity": 44.11,
+    "sound": 65.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035136",
+    "temperature": 23.03,
+    "humidity": 43.01,
+    "sound": 65.12,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031280",
+    "temperature": 22.74,
+    "humidity": 45.65,
+    "sound": 65.29,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035833",
+    "temperature": 20.69,
+    "humidity": 43.31,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035717",
+    "temperature": 22.12,
+    "humidity": 54.62,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032926",
+    "temperature": 22.42,
+    "humidity": 44.45,
+    "sound": 66.77,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034819",
+    "temperature": 23.58,
+    "humidity": 44.36,
+    "sound": 66.66,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034568",
+    "temperature": 23.09,
+    "humidity": 42.66,
+    "sound": 66.56,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.029979",
+    "temperature": 22.05,
+    "humidity": 44.81,
+    "sound": 64.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030725",
+    "temperature": 22.22,
+    "humidity": 45.73,
+    "sound": 64.52,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.029991",
+    "temperature": 22.14,
+    "humidity": 44.48,
+    "sound": 66.07,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033691",
+    "temperature": 23.21,
+    "humidity": 42.77,
+    "sound": 66.38,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033218",
+    "temperature": 22.85,
+    "humidity": 42.91,
+    "sound": 67.19,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031859",
+    "temperature": 22.41,
+    "humidity": 43.59,
+    "sound": 66.39,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033264",
+    "temperature": 22.35,
+    "humidity": 43.08,
+    "sound": 66.43,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033026",
+    "temperature": 21.94,
+    "humidity": 44.18,
+    "sound": 67.34,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031667",
+    "temperature": 22.36,
+    "humidity": 44.82,
+    "sound": 65.09,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032814",
+    "temperature": 22.03,
+    "humidity": 44.59,
+    "sound": 65.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034986",
+    "temperature": 23.19,
+    "humidity": 43.13,
+    "sound": 66.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031298",
+    "temperature": 21.87,
+    "humidity": 44.29,
+    "sound": 64.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034019",
+    "temperature": 22.72,
+    "humidity": 44.0,
+    "sound": 66.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033697",
+    "temperature": 22.71,
+    "humidity": 43.43,
+    "sound": 65.63,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032490",
+    "temperature": 22.55,
+    "humidity": 44.32,
+    "sound": 65.97,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032562",
+    "temperature": 22.54,
+    "humidity": 43.36,
+    "sound": 66.23,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033769",
+    "temperature": 23.16,
+    "humidity": 43.64,
+    "sound": 66.07,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030829",
+    "temperature": 22.36,
+    "humidity": 45.07,
+    "sound": 64.66,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030002",
+    "temperature": 21.91,
+    "humidity": 44.58,
+    "sound": 65.09,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032335",
+    "temperature": 23.5,
+    "humidity": 43.63,
+    "sound": 64.82,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033674",
+    "temperature": 22.3,
+    "humidity": 44.36,
+    "sound": 66.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035966",
+    "temperature": 23.71,
+    "humidity": 52.25,
+    "sound": 76.38,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035554",
+    "temperature": 26.0,
+    "humidity": 54.88,
+    "sound": 84.17,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035900",
+    "temperature": 24.01,
+    "humidity": 52.37,
+    "sound": 79.74,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034638",
+    "temperature": 22.68,
+    "humidity": 42.72,
+    "sound": 66.18,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031639",
+    "temperature": 22.3,
+    "humidity": 45.16,
+    "sound": 65.89,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031452",
+    "temperature": 21.87,
+    "humidity": 45.38,
+    "sound": 65.94,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033872",
+    "temperature": 23.15,
+    "humidity": 44.35,
+    "sound": 66.39,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035343",
+    "temperature": 23.4,
+    "humidity": 45.61,
+    "sound": 66.54,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032865",
+    "temperature": 22.25,
+    "humidity": 44.49,
+    "sound": 66.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035067",
+    "temperature": 23.58,
+    "humidity": 43.16,
+    "sound": 65.12,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030778",
+    "temperature": 22.49,
+    "humidity": 45.61,
+    "sound": 65.22,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035738",
+    "temperature": 21.63,
+    "humidity": 48.83,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031525",
+    "temperature": 21.78,
+    "humidity": 43.8,
+    "sound": 66.2,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034404",
+    "temperature": 22.97,
+    "humidity": 42.5,
+    "sound": 65.78,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034508",
+    "temperature": 23.0,
+    "humidity": 42.5,
+    "sound": 66.06,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034710",
+    "temperature": 20.9,
+    "humidity": 55.0,
+    "sound": 66.3,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035924",
+    "temperature": 24.82,
+    "humidity": 51.08,
+    "sound": 81.04,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032890",
+    "temperature": 22.02,
+    "humidity": 44.5,
+    "sound": 65.77,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032848",
+    "temperature": 22.62,
+    "humidity": 43.65,
+    "sound": 65.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033511",
+    "temperature": 22.41,
+    "humidity": 43.69,
+    "sound": 65.91,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030224",
+    "temperature": 21.99,
+    "humidity": 45.04,
+    "sound": 64.52,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034768",
+    "temperature": 22.83,
+    "humidity": 43.93,
+    "sound": 66.34,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034200",
+    "temperature": 23.08,
+    "humidity": 42.53,
+    "sound": 66.79,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032649",
+    "temperature": 22.07,
+    "humidity": 42.91,
+    "sound": 66.7,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034155",
+    "temperature": 23.25,
+    "humidity": 51.82,
+    "sound": 80.5,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031018",
+    "temperature": 22.22,
+    "humidity": 44.23,
+    "sound": 66.03,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035033",
+    "temperature": 23.54,
+    "humidity": 42.99,
+    "sound": 67.32,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031672",
+    "temperature": 22.55,
+    "humidity": 45.34,
+    "sound": 64.83,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.036036",
+    "temperature": 24.05,
+    "humidity": 51.06,
+    "sound": 79.86,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031138",
+    "temperature": 22.61,
+    "humidity": 45.88,
+    "sound": 65.13,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032507",
+    "temperature": 22.67,
+    "humidity": 43.85,
+    "sound": 66.01,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032477",
+    "temperature": 23.14,
+    "humidity": 43.83,
+    "sound": 65.17,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030405",
+    "temperature": 22.45,
+    "humidity": 45.45,
+    "sound": 64.48,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032677",
+    "temperature": 22.91,
+    "humidity": 43.6,
+    "sound": 65.71,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034580",
+    "temperature": 23.41,
+    "humidity": 42.55,
+    "sound": 65.12,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034619",
+    "temperature": 22.76,
+    "humidity": 43.47,
+    "sound": 65.21,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032003",
+    "temperature": 22.43,
+    "humidity": 45.15,
+    "sound": 66.59,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030555",
+    "temperature": 22.0,
+    "humidity": 45.16,
+    "sound": 65.0,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032501",
+    "temperature": 23.21,
+    "humidity": 43.15,
+    "sound": 64.97,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033989",
+    "temperature": 22.59,
+    "humidity": 43.56,
+    "sound": 66.29,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031992",
+    "temperature": 22.34,
+    "humidity": 43.94,
+    "sound": 66.21,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032688",
+    "temperature": 22.77,
+    "humidity": 43.14,
+    "sound": 65.55,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032578",
+    "temperature": 22.73,
+    "humidity": 43.56,
+    "sound": 66.3,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031496",
+    "temperature": 22.21,
+    "humidity": 43.85,
+    "sound": 65.66,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031116",
+    "temperature": 22.77,
+    "humidity": 44.06,
+    "sound": 64.66,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034174",
+    "temperature": 22.82,
+    "humidity": 44.57,
+    "sound": 65.62,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034722",
+    "temperature": 22.7,
+    "humidity": 43.39,
+    "sound": 66.62,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032524",
+    "temperature": 22.37,
+    "humidity": 44.58,
+    "sound": 65.96,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034086",
+    "temperature": 23.29,
+    "humidity": 43.16,
+    "sound": 66.23,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031650",
+    "temperature": 22.07,
+    "humidity": 45.78,
+    "sound": 66.19,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030135",
+    "temperature": 22.5,
+    "humidity": 43.93,
+    "sound": 64.57,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030149",
+    "temperature": 22.24,
+    "humidity": 44.2,
+    "sound": 65.91,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030374",
+    "temperature": 22.1,
+    "humidity": 45.54,
+    "sound": 64.65,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035153",
+    "temperature": 23.19,
+    "humidity": 44.72,
+    "sound": 65.42,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031314",
+    "temperature": 22.48,
+    "humidity": 44.67,
+    "sound": 64.49,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033081",
+    "temperature": 22.08,
+    "humidity": 43.53,
+    "sound": 67.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034188",
+    "temperature": 22.42,
+    "humidity": 44.04,
+    "sound": 67.16,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033972",
+    "temperature": 23.0,
+    "humidity": 42.79,
+    "sound": 67.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032014",
+    "temperature": 22.49,
+    "humidity": 43.67,
+    "sound": 65.41,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034525",
+    "temperature": 23.07,
+    "humidity": 42.31,
+    "sound": 66.37,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033168",
+    "temperature": 22.32,
+    "humidity": 43.2,
+    "sound": 66.59,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035754",
+    "temperature": 21.35,
+    "humidity": 48.86,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030510",
+    "temperature": 22.25,
+    "humidity": 45.68,
+    "sound": 64.87,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035363",
+    "temperature": 23.45,
+    "humidity": 44.6,
+    "sound": 64.8,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031848",
+    "temperature": 22.75,
+    "humidity": 44.21,
+    "sound": 65.68,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034455",
+    "temperature": 22.64,
+    "humidity": 43.8,
+    "sound": 66.38,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033224",
+    "temperature": 22.64,
+    "humidity": 43.45,
+    "sound": 66.1,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032854",
+    "temperature": 22.0,
+    "humidity": 43.01,
+    "sound": 66.27,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030714",
+    "temperature": 22.54,
+    "humidity": 45.07,
+    "sound": 64.59,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030230",
+    "temperature": 22.39,
+    "humidity": 44.49,
+    "sound": 65.19,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033161",
+    "temperature": 22.27,
+    "humidity": 43.56,
+    "sound": 66.94,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030812",
+    "temperature": 22.28,
+    "humidity": 44.33,
+    "sound": 65.96,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032606",
+    "temperature": 22.55,
+    "humidity": 43.54,
+    "sound": 66.55,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031586",
+    "temperature": 22.19,
+    "humidity": 43.94,
+    "sound": 65.99,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034056",
+    "temperature": 22.56,
+    "humidity": 43.16,
+    "sound": 67.59,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030235",
+    "temperature": 21.78,
+    "humidity": 44.64,
+    "sound": 63.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035980",
+    "temperature": 24.34,
+    "humidity": 52.86,
+    "sound": 77.28,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030286",
+    "temperature": 22.06,
+    "humidity": 43.66,
+    "sound": 65.14,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031622",
+    "temperature": 22.01,
+    "humidity": 44.84,
+    "sound": 65.44,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030324",
+    "temperature": 22.1,
+    "humidity": 44.01,
+    "sound": 65.35,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032660",
+    "temperature": 22.71,
+    "humidity": 43.89,
+    "sound": 65.48,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031520",
+    "temperature": 22.2,
+    "humidity": 45.1,
+    "sound": 64.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.029996",
+    "temperature": 22.32,
+    "humidity": 44.86,
+    "sound": 65.52,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034376",
+    "temperature": 23.16,
+    "humidity": 43.01,
+    "sound": 66.62,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034544",
+    "temperature": 23.24,
+    "humidity": 42.44,
+    "sound": 65.52,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030709",
+    "temperature": 21.8,
+    "humidity": 44.42,
+    "sound": 65.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034650",
+    "temperature": 23.04,
+    "humidity": 42.44,
+    "sound": 65.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032096",
+    "temperature": 22.9,
+    "humidity": 44.76,
+    "sound": 65.61,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031424",
+    "temperature": 22.6,
+    "humidity": 45.37,
+    "sound": 65.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030274",
+    "temperature": 20.45,
+    "humidity": 44.84,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033137",
+    "temperature": 22.89,
+    "humidity": 44.05,
+    "sound": 67.71,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032595",
+    "temperature": 22.93,
+    "humidity": 44.14,
+    "sound": 66.4,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033401",
+    "temperature": 23.01,
+    "humidity": 42.99,
+    "sound": 67.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032472",
+    "temperature": 26.0,
+    "humidity": 47.12,
+    "sound": 79.9,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032831",
+    "temperature": 22.4,
+    "humidity": 44.41,
+    "sound": 66.39,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031514",
+    "temperature": 21.84,
+    "humidity": 44.28,
+    "sound": 65.27,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031184",
+    "temperature": 22.81,
+    "humidity": 44.26,
+    "sound": 65.05,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034691",
+    "temperature": 23.24,
+    "humidity": 44.21,
+    "sound": 65.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034938",
+    "temperature": 23.28,
+    "humidity": 42.09,
+    "sound": 66.76,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033500",
+    "temperature": 22.71,
+    "humidity": 44.23,
+    "sound": 66.85,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033574",
+    "temperature": 22.74,
+    "humidity": 42.94,
+    "sound": 67.08,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032485",
+    "temperature": 23.17,
+    "humidity": 44.33,
+    "sound": 66.32,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031831",
+    "temperature": 22.33,
+    "humidity": 45.15,
+    "sound": 66.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032171",
+    "temperature": 22.53,
+    "humidity": 44.44,
+    "sound": 65.75,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032496",
+    "temperature": 23.06,
+    "humidity": 43.5,
+    "sound": 66.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035424",
+    "temperature": 26.0,
+    "humidity": 48.27,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030411",
+    "temperature": 22.15,
+    "humidity": 43.96,
+    "sound": 64.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032025",
+    "temperature": 22.34,
+    "humidity": 45.05,
+    "sound": 65.76,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035418",
+    "temperature": 26.0,
+    "humidity": 52.06,
+    "sound": 70.16,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032165",
+    "temperature": 22.39,
+    "humidity": 44.73,
+    "sound": 66.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035245",
+    "temperature": 23.57,
+    "humidity": 44.38,
+    "sound": 65.95,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032102",
+    "temperature": 22.44,
+    "humidity": 44.69,
+    "sound": 65.15,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035391",
+    "temperature": 23.59,
+    "humidity": 45.13,
+    "sound": 65.22,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031958",
+    "temperature": 22.87,
+    "humidity": 44.14,
+    "sound": 65.81,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033360",
+    "temperature": 22.9,
+    "humidity": 43.15,
+    "sound": 67.17,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033931",
+    "temperature": 22.64,
+    "humidity": 43.89,
+    "sound": 66.28,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.029973",
+    "temperature": 21.5,
+    "humidity": 44.53,
+    "sound": 65.47,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032448",
+    "temperature": 22.51,
+    "humidity": 44.32,
+    "sound": 66.05,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034265",
+    "temperature": 24.32,
+    "humidity": 55.0,
+    "sound": 73.77,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032909",
+    "temperature": 22.38,
+    "humidity": 44.55,
+    "sound": 65.94,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031046",
+    "temperature": 22.16,
+    "humidity": 43.91,
+    "sound": 65.13,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030896",
+    "temperature": 22.45,
+    "humidity": 44.02,
+    "sound": 65.07,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032629",
+    "temperature": 22.12,
+    "humidity": 44.16,
+    "sound": 66.61,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033190",
+    "temperature": 22.34,
+    "humidity": 43.69,
+    "sound": 65.98,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033797",
+    "temperature": 22.26,
+    "humidity": 43.83,
+    "sound": 67.18,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033650",
+    "temperature": 22.77,
+    "humidity": 43.94,
+    "sound": 67.37,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031628",
+    "temperature": 22.01,
+    "humidity": 45.48,
+    "sound": 64.68,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034049",
+    "temperature": 23.17,
+    "humidity": 43.96,
+    "sound": 67.15,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032961",
+    "temperature": 21.92,
+    "humidity": 44.68,
+    "sound": 66.82,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030585",
+    "temperature": 22.45,
+    "humidity": 44.67,
+    "sound": 65.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032185",
+    "temperature": 22.62,
+    "humidity": 43.56,
+    "sound": 66.15,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032819",
+    "temperature": 22.91,
+    "humidity": 44.46,
+    "sound": 65.68,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035101",
+    "temperature": 23.79,
+    "humidity": 44.33,
+    "sound": 66.74,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033960",
+    "temperature": 23.33,
+    "humidity": 43.89,
+    "sound": 66.43,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030953",
+    "temperature": 21.75,
+    "humidity": 44.67,
+    "sound": 64.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032791",
+    "temperature": 22.43,
+    "humidity": 44.53,
+    "sound": 65.83,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034970",
+    "temperature": 23.91,
+    "humidity": 42.53,
+    "sound": 66.38,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031400",
+    "temperature": 26.0,
+    "humidity": 47.18,
+    "sound": 79.23,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035785",
+    "temperature": 24.45,
+    "humidity": 45.34,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032220",
+    "temperature": 22.53,
+    "humidity": 43.75,
+    "sound": 65.45,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030059",
+    "temperature": 21.55,
+    "humidity": 45.39,
+    "sound": 64.45,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030800",
+    "temperature": 22.58,
+    "humidity": 45.07,
+    "sound": 65.06,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034922",
+    "temperature": 23.31,
+    "humidity": 43.02,
+    "sound": 67.7,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033154",
+    "temperature": 22.9,
+    "humidity": 43.92,
+    "sound": 67.18,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032623",
+    "temperature": 22.27,
+    "humidity": 44.87,
+    "sound": 65.94,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032635",
+    "temperature": 22.36,
+    "humidity": 43.55,
+    "sound": 65.46,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.029944",
+    "temperature": 21.78,
+    "humidity": 44.48,
+    "sound": 64.84,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031867",
+    "temperature": 21.85,
+    "humidity": 44.49,
+    "sound": 66.55,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032877",
+    "temperature": 21.85,
+    "humidity": 44.01,
+    "sound": 65.75,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035107",
+    "temperature": 23.33,
+    "humidity": 42.64,
+    "sound": 66.54,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035501",
+    "temperature": 26.0,
+    "humidity": 52.52,
+    "sound": 70.35,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034538",
+    "temperature": 22.61,
+    "humidity": 42.78,
+    "sound": 65.55,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032178",
+    "temperature": 22.57,
+    "humidity": 44.27,
+    "sound": 65.84,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033603",
+    "temperature": 22.37,
+    "humidity": 44.04,
+    "sound": 66.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032871",
+    "temperature": 21.89,
+    "humidity": 44.34,
+    "sound": 66.39,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.029907",
+    "temperature": 22.02,
+    "humidity": 45.04,
+    "sound": 65.14,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033366",
+    "temperature": 22.76,
+    "humidity": 43.99,
+    "sound": 66.24,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032329",
+    "temperature": 23.51,
+    "humidity": 43.57,
+    "sound": 64.96,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031190",
+    "temperature": 22.79,
+    "humidity": 45.6,
+    "sound": 66.08,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032312",
+    "temperature": 22.95,
+    "humidity": 43.93,
+    "sound": 66.14,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032287",
+    "temperature": 23.32,
+    "humidity": 44.57,
+    "sound": 65.12,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034125",
+    "temperature": 22.34,
+    "humidity": 44.15,
+    "sound": 66.81,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030942",
+    "temperature": 21.85,
+    "humidity": 45.6,
+    "sound": 64.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032808",
+    "temperature": 22.47,
+    "humidity": 44.4,
+    "sound": 66.03,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030784",
+    "temperature": 21.65,
+    "humidity": 44.38,
+    "sound": 64.76,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033966",
+    "temperature": 23.32,
+    "humidity": 43.08,
+    "sound": 67.81,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034234",
+    "temperature": 22.91,
+    "humidity": 43.62,
+    "sound": 65.76,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033752",
+    "temperature": 22.73,
+    "humidity": 44.42,
+    "sound": 66.46,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034668",
+    "temperature": 24.55,
+    "humidity": 51.85,
+    "sound": 78.86,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031684",
+    "temperature": 22.64,
+    "humidity": 45.47,
+    "sound": 66.03,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030662",
+    "temperature": 26.0,
+    "humidity": 45.49,
+    "sound": 71.18,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031689",
+    "temperature": 21.94,
+    "humidity": 45.64,
+    "sound": 66.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032671",
+    "temperature": 22.25,
+    "humidity": 44.41,
+    "sound": 65.89,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030381",
+    "temperature": 22.18,
+    "humidity": 44.84,
+    "sound": 64.89,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033330",
+    "temperature": 22.83,
+    "humidity": 43.38,
+    "sound": 67.55,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030313",
+    "temperature": 21.91,
+    "humidity": 44.32,
+    "sound": 64.72,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035189",
+    "temperature": 23.09,
+    "humidity": 43.65,
+    "sound": 66.47,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033539",
+    "temperature": 22.95,
+    "humidity": 43.17,
+    "sound": 66.17,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035380",
+    "temperature": 23.34,
+    "humidity": 45.3,
+    "sound": 65.44,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032346",
+    "temperature": 23.12,
+    "humidity": 43.04,
+    "sound": 64.88,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032683",
+    "temperature": 22.61,
+    "humidity": 44.31,
+    "sound": 66.04,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031111",
+    "temperature": 22.18,
+    "humidity": 44.38,
+    "sound": 65.15,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034411",
+    "temperature": 22.96,
+    "humidity": 42.09,
+    "sound": 65.99,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030731",
+    "temperature": 21.79,
+    "humidity": 45.29,
+    "sound": 65.42,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032903",
+    "temperature": 22.21,
+    "humidity": 44.14,
+    "sound": 67.27,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035114",
+    "temperature": 23.04,
+    "humidity": 43.62,
+    "sound": 66.17,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033173",
+    "temperature": 22.57,
+    "humidity": 44.48,
+    "sound": 66.56,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033592",
+    "temperature": 22.85,
+    "humidity": 43.99,
+    "sound": 66.18,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034079",
+    "temperature": 22.56,
+    "humidity": 42.9,
+    "sound": 67.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030319",
+    "temperature": 21.79,
+    "humidity": 44.09,
+    "sound": 64.65,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030267",
+    "temperature": 21.66,
+    "humidity": 44.72,
+    "sound": 65.1,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035448",
+    "temperature": 26.0,
+    "humidity": 45.23,
+    "sound": 72.51,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035906",
+    "temperature": 24.01,
+    "humidity": 53.89,
+    "sound": 81.08,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030291",
+    "temperature": 22.17,
+    "humidity": 43.39,
+    "sound": 64.26,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034485",
+    "temperature": 23.3,
+    "humidity": 43.6,
+    "sound": 65.57,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031105",
+    "temperature": 22.84,
+    "humidity": 45.75,
+    "sound": 64.78,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032465",
+    "temperature": 22.42,
+    "humidity": 43.87,
+    "sound": 65.35,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034091",
+    "temperature": 22.52,
+    "humidity": 43.28,
+    "sound": 66.58,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035699",
+    "temperature": 23.97,
+    "humidity": 55.0,
+    "sound": 68.14,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035594",
+    "temperature": 22.13,
+    "humidity": 55.0,
+    "sound": 69.88,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032131",
+    "temperature": 22.66,
+    "humidity": 44.49,
+    "sound": 66.8,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030457",
+    "temperature": 21.62,
+    "humidity": 45.51,
+    "sound": 64.65,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033179",
+    "temperature": 22.84,
+    "humidity": 43.12,
+    "sound": 65.86,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034324",
+    "temperature": 22.84,
+    "humidity": 42.0,
+    "sound": 65.82,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030773",
+    "temperature": 21.8,
+    "humidity": 45.17,
+    "sound": 64.56,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034514",
+    "temperature": 22.87,
+    "humidity": 43.55,
+    "sound": 65.89,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032282",
+    "temperature": 23.4,
+    "humidity": 43.46,
+    "sound": 66.43,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034337",
+    "temperature": 22.78,
+    "humidity": 42.88,
+    "sound": 65.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032226",
+    "temperature": 22.6,
+    "humidity": 44.58,
+    "sound": 65.24,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031122",
+    "temperature": 22.78,
+    "humidity": 45.65,
+    "sound": 64.99,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032601",
+    "temperature": 22.55,
+    "humidity": 44.23,
+    "sound": 66.5,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031788",
+    "temperature": 22.24,
+    "humidity": 45.37,
+    "sound": 65.5,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033292",
+    "temperature": 22.27,
+    "humidity": 44.2,
+    "sound": 67.63,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033822",
+    "temperature": 23.27,
+    "humidity": 43.05,
+    "sound": 66.5,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031986",
+    "temperature": 22.25,
+    "humidity": 43.98,
+    "sound": 65.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034258",
+    "temperature": 22.53,
+    "humidity": 43.89,
+    "sound": 66.52,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031531",
+    "temperature": 22.73,
+    "humidity": 44.87,
+    "sound": 66.26,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034228",
+    "temperature": 22.4,
+    "humidity": 44.27,
+    "sound": 65.27,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033048",
+    "temperature": 22.42,
+    "humidity": 43.09,
+    "sound": 67.03,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031897",
+    "temperature": 22.13,
+    "humidity": 44.6,
+    "sound": 65.53,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034630",
+    "temperature": 23.29,
+    "humidity": 42.45,
+    "sound": 66.18,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034252",
+    "temperature": 22.54,
+    "humidity": 44.29,
+    "sound": 66.56,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030720",
+    "temperature": 22.1,
+    "humidity": 44.28,
+    "sound": 65.19,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031800",
+    "temperature": 22.75,
+    "humidity": 43.74,
+    "sound": 64.84,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035561",
+    "temperature": 23.33,
+    "humidity": 55.0,
+    "sound": 72.55,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030143",
+    "temperature": 21.95,
+    "humidity": 44.79,
+    "sound": 65.8,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031240",
+    "temperature": 24.97,
+    "humidity": 51.8,
+    "sound": 77.95,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030505",
+    "temperature": 22.24,
+    "humidity": 44.27,
+    "sound": 64.16,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033984",
+    "temperature": 22.67,
+    "humidity": 43.37,
+    "sound": 67.53,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034436",
+    "temperature": 23.06,
+    "humidity": 42.49,
+    "sound": 65.78,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031604",
+    "temperature": 22.44,
+    "humidity": 45.52,
+    "sound": 66.32,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035495",
+    "temperature": 26.0,
+    "humidity": 55.0,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033113",
+    "temperature": 22.33,
+    "humidity": 43.44,
+    "sound": 66.53,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034608",
+    "temperature": 23.1,
+    "humidity": 42.76,
+    "sound": 65.35,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035827",
+    "temperature": 23.36,
+    "humidity": 47.52,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031609",
+    "temperature": 22.67,
+    "humidity": 45.32,
+    "sound": 65.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030124",
+    "temperature": 22.22,
+    "humidity": 45.68,
+    "sound": 65.43,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032531",
+    "temperature": 22.61,
+    "humidity": 43.87,
+    "sound": 64.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034532",
+    "temperature": 22.38,
+    "humidity": 42.5,
+    "sound": 65.65,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033037",
+    "temperature": 22.78,
+    "humidity": 43.66,
+    "sound": 65.85,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032295",
+    "temperature": 22.57,
+    "humidity": 44.17,
+    "sound": 66.37,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034114",
+    "temperature": 22.74,
+    "humidity": 43.44,
+    "sound": 66.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030874",
+    "temperature": 22.57,
+    "humidity": 44.34,
+    "sound": 66.26,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033978",
+    "temperature": 22.63,
+    "humidity": 43.71,
+    "sound": 66.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034038",
+    "temperature": 23.18,
+    "humidity": 42.81,
+    "sound": 67.66,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031446",
+    "temperature": 22.55,
+    "humidity": 44.75,
+    "sound": 65.71,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032766",
+    "temperature": 22.12,
+    "humidity": 43.09,
+    "sound": 65.85,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031269",
+    "temperature": 22.78,
+    "humidity": 45.36,
+    "sound": 65.71,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032753",
+    "temperature": 22.78,
+    "humidity": 43.76,
+    "sound": 65.9,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031562",
+    "temperature": 22.47,
+    "humidity": 45.14,
+    "sound": 65.14,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035880",
+    "temperature": 22.07,
+    "humidity": 49.34,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033092",
+    "temperature": 22.39,
+    "humidity": 43.77,
+    "sound": 66.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031975",
+    "temperature": 23.01,
+    "humidity": 43.73,
+    "sound": 67.23,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030016",
+    "temperature": 22.18,
+    "humidity": 45.48,
+    "sound": 64.76,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035095",
+    "temperature": 26.0,
+    "humidity": 55.0,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034271",
+    "temperature": 23.13,
+    "humidity": 42.64,
+    "sound": 66.36,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033505",
+    "temperature": 22.11,
+    "humidity": 44.37,
+    "sound": 67.04,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031644",
+    "temperature": 21.96,
+    "humidity": 44.53,
+    "sound": 65.89,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034643",
+    "temperature": 22.54,
+    "humidity": 43.51,
+    "sound": 65.02,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035853",
+    "temperature": 24.83,
+    "humidity": 54.24,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033655",
+    "temperature": 22.88,
+    "humidity": 43.89,
+    "sound": 66.12,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030196",
+    "temperature": 22.3,
+    "humidity": 44.61,
+    "sound": 64.1,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033355",
+    "temperature": 22.25,
+    "humidity": 44.14,
+    "sound": 66.88,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035645",
+    "temperature": 24.27,
+    "humidity": 55.0,
+    "sound": 76.43,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032797",
+    "temperature": 22.46,
+    "humidity": 44.45,
+    "sound": 65.48,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030674",
+    "temperature": 21.79,
+    "humidity": 45.57,
+    "sound": 65.11,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035205",
+    "temperature": 23.59,
+    "humidity": 43.05,
+    "sound": 65.05,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030070",
+    "temperature": 22.42,
+    "humidity": 44.92,
+    "sound": 65.89,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035954",
+    "temperature": 23.8,
+    "humidity": 53.87,
+    "sound": 83.15,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031769",
+    "temperature": 22.76,
+    "humidity": 44.87,
+    "sound": 65.73,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030104",
+    "temperature": 22.54,
+    "humidity": 45.62,
+    "sound": 65.4,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030440",
+    "temperature": 22.47,
+    "humidity": 45.32,
+    "sound": 65.42,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034491",
+    "temperature": 23.06,
+    "humidity": 43.44,
+    "sound": 65.18,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031695",
+    "temperature": 22.73,
+    "humidity": 45.46,
+    "sound": 65.44,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033780",
+    "temperature": 23.03,
+    "humidity": 42.78,
+    "sound": 66.41,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035027",
+    "temperature": 23.12,
+    "humidity": 42.4,
+    "sound": 65.63,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032640",
+    "temperature": 22.13,
+    "humidity": 44.45,
+    "sound": 67.01,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031806",
+    "temperature": 22.54,
+    "humidity": 45.02,
+    "sound": 65.21,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034680",
+    "temperature": 23.31,
+    "humidity": 43.31,
+    "sound": 65.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032931",
+    "temperature": 22.54,
+    "humidity": 43.41,
+    "sound": 66.13,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030762",
+    "temperature": 22.53,
+    "humidity": 45.16,
+    "sound": 64.76,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030299",
+    "temperature": 21.61,
+    "humidity": 43.65,
+    "sound": 63.72,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030093",
+    "temperature": 22.57,
+    "humidity": 44.78,
+    "sound": 66.16,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034859",
+    "temperature": 23.16,
+    "humidity": 42.41,
+    "sound": 66.59,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030029",
+    "temperature": 23.8,
+    "humidity": 55.0,
+    "sound": 75.29,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034131",
+    "temperature": 22.76,
+    "humidity": 43.06,
+    "sound": 66.12,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033143",
+    "temperature": 22.3,
+    "humidity": 42.84,
+    "sound": 66.24,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030260",
+    "temperature": 22.13,
+    "humidity": 44.8,
+    "sound": 63.89,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030098",
+    "temperature": 22.17,
+    "humidity": 44.68,
+    "sound": 64.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034946",
+    "temperature": 23.78,
+    "humidity": 44.08,
+    "sound": 67.51,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034685",
+    "temperature": 23.1,
+    "humidity": 44.21,
+    "sound": 66.04,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031953",
+    "temperature": 22.44,
+    "humidity": 44.06,
+    "sound": 66.74,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032655",
+    "temperature": 22.97,
+    "humidity": 43.14,
+    "sound": 66.16,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034318",
+    "temperature": 22.66,
+    "humidity": 42.93,
+    "sound": 65.27,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034108",
+    "temperature": 23.17,
+    "humidity": 43.24,
+    "sound": 67.06,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030202",
+    "temperature": 22.25,
+    "humidity": 43.7,
+    "sound": 64.84,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034867",
+    "temperature": 23.01,
+    "humidity": 44.15,
+    "sound": 67.0,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033667",
+    "temperature": 22.75,
+    "humidity": 43.18,
+    "sound": 66.55,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035010",
+    "temperature": 23.83,
+    "humidity": 43.3,
+    "sound": 66.23,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030550",
+    "temperature": 21.47,
+    "humidity": 44.87,
+    "sound": 64.29,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031556",
+    "temperature": 22.14,
+    "humidity": 45.21,
+    "sound": 65.46,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034733",
+    "temperature": 23.04,
+    "humidity": 42.28,
+    "sound": 66.17,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035839",
+    "temperature": 23.17,
+    "humidity": 47.66,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033730",
+    "temperature": 22.16,
+    "humidity": 43.65,
+    "sound": 66.41,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031702",
+    "temperature": 22.16,
+    "humidity": 45.09,
+    "sound": 66.14,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030394",
+    "temperature": 23.06,
+    "humidity": 52.02,
+    "sound": 81.38,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035512",
+    "temperature": 26.0,
+    "humidity": 45.47,
+    "sound": 73.28,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030087",
+    "temperature": 21.79,
+    "humidity": 44.66,
+    "sound": 64.48,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030184",
+    "temperature": 22.59,
+    "humidity": 45.13,
+    "sound": 64.71,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034874",
+    "temperature": 26.0,
+    "humidity": 52.48,
+    "sound": 79.86,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030650",
+    "temperature": 22.44,
+    "humidity": 44.45,
+    "sound": 64.26,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030219",
+    "temperature": 22.33,
+    "humidity": 44.0,
+    "sound": 63.95,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033924",
+    "temperature": 23.02,
+    "humidity": 43.7,
+    "sound": 66.86,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031656",
+    "temperature": 22.58,
+    "humidity": 44.11,
+    "sound": 66.18,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031825",
+    "temperature": 22.31,
+    "humidity": 44.12,
+    "sound": 65.28,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032589",
+    "temperature": 22.86,
+    "humidity": 44.05,
+    "sound": 65.07,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031758",
+    "temperature": 22.37,
+    "humidity": 45.21,
+    "sound": 64.98,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030925",
+    "temperature": 22.51,
+    "humidity": 44.4,
+    "sound": 64.53,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034591",
+    "temperature": 22.55,
+    "humidity": 42.16,
+    "sound": 66.4,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032617",
+    "temperature": 22.87,
+    "humidity": 44.53,
+    "sound": 66.4,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033312",
+    "temperature": 22.11,
+    "humidity": 43.6,
+    "sound": 65.94,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032784",
+    "temperature": 22.58,
+    "humidity": 43.44,
+    "sound": 66.4,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033270",
+    "temperature": 22.37,
+    "humidity": 44.12,
+    "sound": 67.15,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035524",
+    "temperature": 26.0,
+    "humidity": 52.84,
+    "sound": 72.18,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033464",
+    "temperature": 22.85,
+    "humidity": 44.19,
+    "sound": 67.68,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032242",
+    "temperature": 22.85,
+    "humidity": 45.15,
+    "sound": 64.77,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035125",
+    "temperature": 23.93,
+    "humidity": 43.45,
+    "sound": 65.98,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035542",
+    "temperature": 26.0,
+    "humidity": 49.01,
+    "sound": 79.07,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034597",
+    "temperature": 23.15,
+    "humidity": 44.03,
+    "sound": 65.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030789",
+    "temperature": 22.2,
+    "humidity": 44.68,
+    "sound": 65.44,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035130",
+    "temperature": 23.9,
+    "humidity": 43.0,
+    "sound": 65.61,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033775",
+    "temperature": 22.26,
+    "humidity": 43.88,
+    "sound": 66.38,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035657",
+    "temperature": 24.46,
+    "humidity": 55.0,
+    "sound": 76.86,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034026",
+    "temperature": 23.08,
+    "humidity": 43.79,
+    "sound": 66.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032008",
+    "temperature": 22.23,
+    "humidity": 44.71,
+    "sound": 65.45,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035986",
+    "temperature": 24.93,
+    "humidity": 53.08,
+    "sound": 80.16,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033747",
+    "temperature": 22.99,
+    "humidity": 43.99,
+    "sound": 65.88,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034062",
+    "temperature": 22.5,
+    "humidity": 43.27,
+    "sound": 68.31,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030806",
+    "temperature": 21.75,
+    "humidity": 44.71,
+    "sound": 64.76,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034958",
+    "temperature": 23.88,
+    "humidity": 42.34,
+    "sound": 67.91,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031207",
+    "temperature": 22.42,
+    "humidity": 44.29,
+    "sound": 65.54,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034704",
+    "temperature": 23.05,
+    "humidity": 42.95,
+    "sound": 66.82,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035399",
+    "temperature": 26.0,
+    "humidity": 49.6,
+    "sound": 77.09,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032459",
+    "temperature": 22.41,
+    "humidity": 43.21,
+    "sound": 65.91,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034287",
+    "temperature": 22.75,
+    "humidity": 43.17,
+    "sound": 65.37,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035089",
+    "temperature": 23.68,
+    "humidity": 43.59,
+    "sound": 65.9,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033719",
+    "temperature": 22.81,
+    "humidity": 43.14,
+    "sound": 67.16,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030129",
+    "temperature": 21.88,
+    "humidity": 44.94,
+    "sound": 65.29,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031837",
+    "temperature": 22.36,
+    "humidity": 44.89,
+    "sound": 65.23,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033878",
+    "temperature": 23.22,
+    "humidity": 44.45,
+    "sound": 67.29,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031068",
+    "temperature": 21.76,
+    "humidity": 45.82,
+    "sound": 66.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035602",
+    "temperature": 22.4,
+    "humidity": 55.0,
+    "sound": 74.27,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030982",
+    "temperature": 22.12,
+    "humidity": 45.18,
+    "sound": 65.78,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032972",
+    "temperature": 22.34,
+    "humidity": 42.65,
+    "sound": 65.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032741",
+    "temperature": 22.57,
+    "humidity": 43.05,
+    "sound": 65.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035918",
+    "temperature": 24.72,
+    "humidity": 53.62,
+    "sound": 81.43,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035626",
+    "temperature": 23.1,
+    "humidity": 55.0,
+    "sound": 65.75,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031258",
+    "temperature": 22.14,
+    "humidity": 44.13,
+    "sound": 65.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035022",
+    "temperature": 23.45,
+    "humidity": 41.99,
+    "sound": 67.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035332",
+    "temperature": 23.53,
+    "humidity": 44.17,
+    "sound": 64.93,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035351",
+    "temperature": 22.77,
+    "humidity": 55.0,
+    "sound": 76.7,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035886",
+    "temperature": 24.14,
+    "humidity": 52.16,
+    "sound": 78.35,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034727",
+    "temperature": 23.14,
+    "humidity": 42.93,
+    "sound": 67.36,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034137",
+    "temperature": 22.36,
+    "humidity": 43.27,
+    "sound": 67.9,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030417",
+    "temperature": 21.64,
+    "humidity": 45.45,
+    "sound": 65.05,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033741",
+    "temperature": 22.87,
+    "humidity": 42.74,
+    "sound": 66.52,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034916",
+    "temperature": 23.59,
+    "humidity": 43.6,
+    "sound": 67.93,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033833",
+    "temperature": 23.16,
+    "humidity": 42.52,
+    "sound": 66.96,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032254",
+    "temperature": 22.73,
+    "humidity": 44.09,
+    "sound": 65.91,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032265",
+    "temperature": 22.82,
+    "humidity": 44.3,
+    "sound": 66.49,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035183",
+    "temperature": 23.42,
+    "humidity": 44.75,
+    "sound": 65.23,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031094",
+    "temperature": 22.28,
+    "humidity": 45.01,
+    "sound": 65.63,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031874",
+    "temperature": 22.84,
+    "humidity": 44.37,
+    "sound": 65.75,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035412",
+    "temperature": 26.0,
+    "humidity": 55.0,
+    "sound": 78.22,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030958",
+    "temperature": 22.77,
+    "humidity": 45.23,
+    "sound": 64.58,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.029985",
+    "temperature": 22.51,
+    "humidity": 45.4,
+    "sound": 65.32,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030363",
+    "temperature": 22.22,
+    "humidity": 44.77,
+    "sound": 64.55,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035078",
+    "temperature": 23.58,
+    "humidity": 43.58,
+    "sound": 65.3,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032369",
+    "temperature": 22.65,
+    "humidity": 44.05,
+    "sound": 65.3,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031079",
+    "temperature": 22.79,
+    "humidity": 45.91,
+    "sound": 66.02,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034468",
+    "temperature": 26.0,
+    "humidity": 55.0,
+    "sound": 72.88,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033803",
+    "temperature": 22.44,
+    "humidity": 44.47,
+    "sound": 67.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031776",
+    "temperature": 21.94,
+    "humidity": 44.57,
+    "sound": 64.94,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031598",
+    "temperature": 22.33,
+    "humidity": 45.02,
+    "sound": 66.48,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031819",
+    "temperature": 22.41,
+    "humidity": 45.64,
+    "sound": 65.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032248",
+    "temperature": 23.17,
+    "humidity": 43.97,
+    "sound": 65.26,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031286",
+    "temperature": 22.01,
+    "humidity": 44.77,
+    "sound": 66.14,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030690",
+    "temperature": 21.81,
+    "humidity": 44.93,
+    "sound": 64.82,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030165",
+    "temperature": 20.18,
+    "humidity": 55.0,
+    "sound": 74.66,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031127",
+    "temperature": 21.95,
+    "humidity": 44.16,
+    "sound": 64.87,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032803",
+    "temperature": 22.04,
+    "humidity": 44.74,
+    "sound": 65.67,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033306",
+    "temperature": 20.79,
+    "humidity": 55.0,
+    "sound": 67.77,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035072",
+    "temperature": 23.15,
+    "humidity": 42.67,
+    "sound": 65.3,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033632",
+    "temperature": 22.38,
+    "humidity": 43.26,
+    "sound": 67.06,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033533",
+    "temperature": 22.88,
+    "humidity": 44.27,
+    "sound": 67.1,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034301",
+    "temperature": 22.22,
+    "humidity": 43.7,
+    "sound": 65.8,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035237",
+    "temperature": 23.95,
+    "humidity": 43.52,
+    "sound": 64.7,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030890",
+    "temperature": 22.09,
+    "humidity": 44.91,
+    "sound": 64.62,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031247",
+    "temperature": 22.41,
+    "humidity": 44.26,
+    "sound": 66.01,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033680",
+    "temperature": 22.75,
+    "humidity": 43.61,
+    "sound": 67.23,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033522",
+    "temperature": 22.42,
+    "humidity": 43.6,
+    "sound": 66.16,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034222",
+    "temperature": 22.38,
+    "humidity": 42.91,
+    "sound": 65.26,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034755",
+    "temperature": 23.67,
+    "humidity": 42.67,
+    "sound": 65.32,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034217",
+    "temperature": 22.92,
+    "humidity": 43.55,
+    "sound": 64.94,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035866",
+    "temperature": 22.04,
+    "humidity": 51.56,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030868",
+    "temperature": 22.58,
+    "humidity": 45.48,
+    "sound": 66.39,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030480",
+    "temperature": 21.6,
+    "humidity": 44.72,
+    "sound": 65.7,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034624",
+    "temperature": 23.51,
+    "humidity": 42.95,
+    "sound": 66.19,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030936",
+    "temperature": 22.07,
+    "humidity": 44.93,
+    "sound": 64.58,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.036010",
+    "temperature": 24.36,
+    "humidity": 53.64,
+    "sound": 78.91,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031713",
+    "temperature": 21.95,
+    "humidity": 45.48,
+    "sound": 64.65,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031007",
+    "temperature": 22.77,
+    "humidity": 43.74,
+    "sound": 66.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030901",
+    "temperature": 22.65,
+    "humidity": 44.8,
+    "sound": 65.59,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032191",
+    "temperature": 22.53,
+    "humidity": 44.04,
+    "sound": 65.9,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035213",
+    "temperature": 23.28,
+    "humidity": 44.68,
+    "sound": 65.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035472",
+    "temperature": 26.0,
+    "humidity": 45.45,
+    "sound": 71.13,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034194",
+    "temperature": 23.0,
+    "humidity": 47.57,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033827",
+    "temperature": 22.35,
+    "humidity": 44.22,
+    "sound": 67.94,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032556",
+    "temperature": 21.55,
+    "humidity": 55.0,
+    "sound": 77.88,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031374",
+    "temperature": 21.96,
+    "humidity": 45.4,
+    "sound": 65.44,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033336",
+    "temperature": 22.86,
+    "humidity": 43.91,
+    "sound": 66.31,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031356",
+    "temperature": 22.8,
+    "humidity": 45.7,
+    "sound": 66.05,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034103",
+    "temperature": 22.59,
+    "humidity": 44.06,
+    "sound": 66.07,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032666",
+    "temperature": 22.09,
+    "humidity": 43.6,
+    "sound": 65.47,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031508",
+    "temperature": 20.95,
+    "humidity": 54.98,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031219",
+    "temperature": 22.11,
+    "humidity": 44.55,
+    "sound": 64.13,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033866",
+    "temperature": 23.04,
+    "humidity": 43.7,
+    "sound": 66.83,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033579",
+    "temperature": 22.59,
+    "humidity": 42.79,
+    "sound": 66.31,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030795",
+    "temperature": 21.96,
+    "humidity": 45.46,
+    "sound": 64.56,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033706",
+    "temperature": 22.4,
+    "humidity": 44.58,
+    "sound": 65.57,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031253",
+    "temperature": 22.28,
+    "humidity": 45.09,
+    "sound": 64.56,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033586",
+    "temperature": 22.44,
+    "humidity": 44.2,
+    "sound": 66.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033430",
+    "temperature": 22.93,
+    "humidity": 43.12,
+    "sound": 66.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030190",
+    "temperature": 22.41,
+    "humidity": 43.7,
+    "sound": 65.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033736",
+    "temperature": 22.72,
+    "humidity": 43.16,
+    "sound": 65.69,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033002",
+    "temperature": 21.97,
+    "humidity": 43.91,
+    "sound": 66.01,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033661",
+    "temperature": 23.15,
+    "humidity": 43.9,
+    "sound": 67.53,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030463",
+    "temperature": 21.73,
+    "humidity": 44.35,
+    "sound": 64.87,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032420",
+    "temperature": 23.26,
+    "humidity": 44.49,
+    "sound": 66.29,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032380",
+    "temperature": 22.64,
+    "humidity": 44.43,
+    "sound": 64.44,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030042",
+    "temperature": 21.78,
+    "humidity": 45.48,
+    "sound": 65.5,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032542",
+    "temperature": 22.39,
+    "humidity": 44.63,
+    "sound": 65.92,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031548",
+    "temperature": 22.36,
+    "humidity": 45.31,
+    "sound": 65.33,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035385",
+    "temperature": 23.55,
+    "humidity": 43.42,
+    "sound": 65.32,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035338",
+    "temperature": 23.18,
+    "humidity": 44.42,
+    "sound": 66.53,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034831",
+    "temperature": 23.24,
+    "humidity": 43.36,
+    "sound": 66.57,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032711",
+    "temperature": 22.29,
+    "humidity": 44.84,
+    "sound": 67.13,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033906",
+    "temperature": 23.33,
+    "humidity": 44.17,
+    "sound": 66.74,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035269",
+    "temperature": 23.09,
+    "humidity": 44.45,
+    "sound": 66.55,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035436",
+    "temperature": 26.0,
+    "humidity": 55.0,
+    "sound": 78.96,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033148",
+    "temperature": 22.14,
+    "humidity": 42.97,
+    "sound": 67.03,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031502",
+    "temperature": 22.65,
+    "humidity": 45.51,
+    "sound": 65.53,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030631",
+    "temperature": 22.18,
+    "humidity": 45.11,
+    "sound": 65.37,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032736",
+    "temperature": 22.46,
+    "humidity": 45.01,
+    "sound": 66.17,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031406",
+    "temperature": 22.23,
+    "humidity": 45.77,
+    "sound": 65.6,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035620",
+    "temperature": 22.14,
+    "humidity": 55.0,
+    "sound": 65.46,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034899",
+    "temperature": 23.06,
+    "humidity": 44.0,
+    "sound": 67.93,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030849",
+    "temperature": 22.43,
+    "humidity": 44.65,
+    "sound": 66.09,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030644",
+    "temperature": 22.34,
+    "humidity": 45.66,
+    "sound": 63.65,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030399",
+    "temperature": 21.64,
+    "humidity": 44.46,
+    "sound": 65.17,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031980",
+    "temperature": 22.94,
+    "humidity": 44.98,
+    "sound": 67.08,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.033388",
+    "temperature": 22.91,
+    "humidity": 42.68,
+    "sound": 68.02,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031724",
+    "temperature": 22.69,
+    "humidity": 44.97,
+    "sound": 65.25,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030623",
+    "temperature": 22.21,
+    "humidity": 44.6,
+    "sound": 65.54,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035297",
+    "temperature": 23.46,
+    "humidity": 43.98,
+    "sound": 64.98,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034662",
+    "temperature": 23.46,
+    "humidity": 43.64,
+    "sound": 66.16,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032825",
+    "temperature": 22.33,
+    "humidity": 45.0,
+    "sound": 65.17,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035732",
+    "temperature": 20.44,
+    "humidity": 49.84,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "noise"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032352",
+    "temperature": 23.27,
+    "humidity": 44.72,
+    "sound": 65.21,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030824",
+    "temperature": 23.71,
+    "humidity": 53.14,
+    "sound": 81.29,
+    "is_anomaly": true,
+    "anomaly_type": "steam_leak"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030007",
+    "temperature": 21.81,
+    "humidity": 45.69,
+    "sound": 65.07,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034474",
+    "temperature": 22.58,
+    "humidity": 43.75,
+    "sound": 66.48,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032772",
+    "temperature": 22.4,
+    "humidity": 43.72,
+    "sound": 65.77,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031275",
+    "temperature": 22.15,
+    "humidity": 44.4,
+    "sound": 65.78,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031369",
+    "temperature": 22.74,
+    "humidity": 45.89,
+    "sound": 64.93,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031919",
+    "temperature": 22.0,
+    "humidity": 44.47,
+    "sound": 65.42,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.034894",
+    "temperature": 26.0,
+    "humidity": 47.62,
+    "sound": 85.0,
+    "is_anomaly": true,
+    "anomaly_type": "overheating"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.029950",
+    "temperature": 21.86,
+    "humidity": 45.9,
+    "sound": 64.66,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035711",
+    "temperature": 24.01,
+    "humidity": 55.0,
+    "sound": 68.1,
+    "is_anomaly": true,
+    "anomaly_type": "ventilation"
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031024",
+    "temperature": 22.3,
+    "humidity": 45.03,
+    "sound": 65.18,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030885",
+    "temperature": 21.9,
+    "humidity": 43.86,
+    "sound": 64.66,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.031795",
+    "temperature": 22.19,
+    "humidity": 45.51,
+    "sound": 64.9,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032115",
+    "temperature": 22.8,
+    "humidity": 44.06,
+    "sound": 65.11,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.030656",
+    "temperature": 21.62,
+    "humidity": 45.47,
+    "sound": 63.82,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032860",
+    "temperature": 22.64,
+    "humidity": 44.52,
+    "sound": 66.11,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.032694",
+    "temperature": 22.67,
+    "humidity": 44.3,
+    "sound": 66.5,
+    "is_anomaly": false,
+    "anomaly_type": null
+  },
+  {
+    "timestamp": "2025-03-18T04:22:23.035258",
+    "temperature": 23.09,
+    "humidity": 43.53,
+    "sound": 65.89,
+    "is_anomaly": false,
+    "anomaly_type": null
+  }
+]
